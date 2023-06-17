@@ -5,12 +5,14 @@
 
 /* betty style doc for function main goes there */
 /**
- * main entry
- * this program output alphabet in lowercase
- * */
+ * main - Entry point
+ * This program prints all alphabet using putchar
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char alphabet = 'a';
+
 	putchar(alphabet);
 	return (0);
 }
