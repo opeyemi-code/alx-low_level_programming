@@ -11,8 +11,13 @@
  */
 int main(void)
 {
-	char alphabet = 'a';
+	int i = 97;
 
-	putchar(alphabet);
+	while (i <= 122)
+	{
+		putchar(i);
+		i++;
+	}
+	putchar('\n');
 	return (0);
 }
