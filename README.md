@@ -46,8 +46,8 @@ The compilation process in C consists of four stages:
 
 To get started with my C programming journey, I will be working on the following projects:
 
-- 📂 [0x00_hello_world](./0x00_hello_world)
-- 📂 [0x01_variables_if_else_while](./0x01_variables_if_else_while)
+- 📂 [0x00_hello_world](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x00-hello_world)
+- 📂 [0x01_variables_if_else_while](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 
 Each project presents unique challenges and opportunities for me to enhance my understanding of the C programming language.
 
