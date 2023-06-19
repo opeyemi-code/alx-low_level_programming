@@ -7,12 +7,11 @@
 
 int main(void)
 {
-	char stringOfNumbers[] = "0123456789";
-	int i = 0;
+	int i = 48;
 
-	while (i < 10)
+	while (i < 58)
 	{
-		putchar(stringOfNumbers[i]);
+		putchar(i);
 		i++;
 	}
 	printf("\n");
