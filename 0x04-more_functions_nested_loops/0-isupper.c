@@ -1,13 +1,15 @@
 #include "main.h"
+#include <stdio.h>
 #include <ctype.h>
+
 /**
  * _isupper - Entry point
- * @c: receives an character
- * this programs checks if a chracter is a uppercase letter
- * Return: Always 0 (Success)
+ * @c: receives a character as an argument
+ * checks for upercase character
+ * Return: either 1 or 0
  */
 
-int _isupper(char c)
+int _isupper(int c)
 {
 	if (isupper(c) > 0)
 	{
