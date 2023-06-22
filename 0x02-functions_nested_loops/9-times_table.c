@@ -21,6 +21,10 @@ void times_table(void)
 			{
 				printf("%d", i * j);
 			}
+			else if ((i * j) < 10)
+			{
+				printf(",  %d", i * j);
+			}
 			else
 			{
 				printf(", %d", i * j);
