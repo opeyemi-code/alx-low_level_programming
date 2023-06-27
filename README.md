@@ -48,6 +48,12 @@ To get started with my C programming journey, I will be working on the following
 
 - 📂 [0x00_hello_world](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x00-hello_world)
 - 📂 [0x01_variables_if_else_while](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
+- 📂 [0x02_functions_nested_loops](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
+- 📂 [0x03_debugging](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x03-debugging)
+- 📂 [0x04_more_functions_nested_loops](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
+- 📂 [0x05_pointers_arrays_strings](https://github.com/opeyemi-code/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
+
+
 
 Each project presents unique challenges and opportunities for me to enhance my understanding of the C programming language.
 
