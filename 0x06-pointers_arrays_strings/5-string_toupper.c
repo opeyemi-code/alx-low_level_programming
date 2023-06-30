@@ -5,26 +5,33 @@
 
 /**
  * string_toupper -Entry point
- * @s: receives a string
+ * @str: receives a string
  * this program converts a string to uppercase
  * Return: uppercase string
  */
 
-char *string_toupper(char *s)
+char *string_toupper(char *str)
 {
-	int str_length = strlen(s);
+	int str_length = strlen(str);
 	int i;
 
 	for (i = 0; i < str_length; i++)
 	{
-		if (isalpha(s[i]) == 0)
+		if (isalpha(str[i]) == 0)
 		{
-			printf("%c", s[i]);
+			str[i] = str[i];
 		}
 		else
 		{
-			printf("%c", toupper(s[i]));
+			if (islower(str[i]) > 0)
+			{
+				str[i] = toupper(str[i]);
+			}
+			else
+			{
+				str[i] = str[i];
+			}
 		}
 	}
-	return ("");
+	return (str);
 }
