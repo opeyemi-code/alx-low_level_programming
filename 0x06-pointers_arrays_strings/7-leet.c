@@ -36,10 +36,6 @@ char *leet(char *str)
 		{
 			str[i] = '1';
 		}
-		else
-		{
-			str[i] = str[i];
-		}
 	}
 	return (str);
 }
