@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * set_string
+ * set_string - Entry point
  * @s: a pointer pointing to the address of another pointer
  * @to: the value to set to a char
  * this program sets the value of pointer to char
