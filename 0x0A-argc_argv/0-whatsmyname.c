@@ -4,7 +4,7 @@
  * main - Entry point
  * @argc: an integer
  * @argv: an array of pointer to string
- * 
+ *
  * Return: an integer
  */
 
